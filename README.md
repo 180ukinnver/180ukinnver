@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on JavaScript, TypeScript, React and React Native
+- 🌱 I’m currently learning everythin I can find
+- 📫 How to reach me: [DEV](https://dev.to/180ukinnver), [LinkedIn](https://www.linkedin.com/in/180ukinnver/), [WebSite](https://180ukinnver.github.io/)
+- 😄 Pronouns: she/her/hers
+
 <!--
 **180ukinnver/180ukinnver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
